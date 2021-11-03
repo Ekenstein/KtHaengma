@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="haengma.core.game.BoardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-02T18:26:20" hostname="DESKTOP-L2MDCGJ" time="28.987">
+  <properties/>
+  <testcase name="passing counts as if the board has been changed in a ko fight()" classname="haengma.core.game.BoardTest" time="28.987"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
